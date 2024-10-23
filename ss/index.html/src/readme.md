@@ -4,7 +4,7 @@ lit, sed do eiusmod
 tempor incididunt ut
  labore nice dolore magna aliqua. 
   quis nostrud exercitation 
-   laboris nisi 
+   laboris nisi
   ut aliquip ex ea commodo 
   aute irure dolor
   voluptate velit esse cillum
@@ -14,4 +14,4 @@ tempor incididunt ut
    cupidatat non 
    proident,
     sunt in culpa qui officia 
-    deserunt 
+    deserunt
